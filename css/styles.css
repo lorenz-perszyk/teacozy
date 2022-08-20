@@ -60,10 +60,6 @@ nav {
     column-gap: 30px;
 }
 
-/* .navigation li:not(:last-child) {
-	margin-right: 20px;
-} */
-
 .navigation li {
 	list-style: none;
 	display: inline-block;
@@ -89,7 +85,7 @@ nav {
 	margin-top: 60px;
 	height: calc(100vh - 60px);
 	background-color: #61826f;
-	background-image: url("./ressources/images/img-mission-background.webp");
+	background-image: url("../images/img-mission-background.webp");
 	background-repeat: no-repeat;
 	background-position: 60% 50%;
 	background-size: cover;
@@ -192,7 +188,7 @@ nav {
 
 #locations {
 	padding: 60px 0;
-	background-image: url("./ressources/images/img-locations-background.webp");
+	background-image: url("../images/img-locations-background.webp");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 60% 85%;
